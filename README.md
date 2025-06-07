@@ -193,3 +193,5 @@ This project demonstrates Team collaboration enhancing Green wood community webs
 ### Git performs merging and confirm that PR has been merged successfully
 
 ![](./img/PR-success-merge-update-gui.png)
+
+## Hope you followed through and this have been informative for you.
